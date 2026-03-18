@@ -1,5 +1,10 @@
 # ANALYSE-RH-ET-CONCEPTION-D-UN-DASHBOARD-POWER-BI
 
+## 📸 Aperçu du dashboard
+
+![Dashboard](dashboard.png)
+![Informations complètes](informations%20complètes.png)
+
 🗝️ But du projet :
 
 Créer un tableau de bord RH pour visualiser les indicateurs clés liés aux effectifs, à la performance et au turnover des employés à partir de données réelles issues de Kaggle.
